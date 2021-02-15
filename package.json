@@ -1,0 +1,19 @@
+{
+  "name": "hero-card-element",
+  "version": "1.0.1",
+  "description": "hero card web component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Addin/hero-card-element.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Addin/hero-card-element/issues"
+  },
+  "homepage": "https://github.com/Addin/hero-card-element#readme"
+}
